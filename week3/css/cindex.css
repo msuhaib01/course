@@ -1,0 +1,40 @@
+main h1 {
+    color: red;
+    text-align: center;
+    margin: 0.5em 0 1em 0;
+}
+* {
+    box-sizing:border-box;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+
+  }
+
+.col {
+    border: 1px solid black;
+    margin: 0 0.5em 0 0.5em;
+}
+#main{
+    overflow: auto; 
+}
+#main div{
+    align-items: center;
+    margin-bottom: 5em;
+}
+#main div div {
+    border: 1px solid black;
+    margin: 0 0.5em 0 0.5em;
+    padding: 1em;
+    width: auto;
+}
+#temp div{
+    
+}
+#temp div div{
+    border: 1px solid black;
+    padding: 0.5em;
+    width: auto;
+
+}
+.link{
+    color: blue;
+}
