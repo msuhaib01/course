@@ -4,6 +4,14 @@ body {
   background-color: #61122f;
   font-family: 'Oxygen', sans-serif;
 }
+#ImgDiv {
+  width:100%;
+  height: 1000px;
+}
+#ImgDiv img{
+  margin-top: 300px
+}
+
 
 /** HEADER **/
 #header-nav {
