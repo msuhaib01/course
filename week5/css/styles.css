@@ -12,6 +12,9 @@ body {
   margin-top: 300px
 }
 
+#logo:hover {
+  background: none !important;
+}
 a:hover {
   background: white !important;
 }
